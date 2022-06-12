@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "贪吃蛇", "贪吃蛇.vcxproj", "{EB8F1043-8BD4-477F-9F94-213B90F13866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Debug|x64.ActiveCfg = Debug|x64
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Debug|x64.Build.0 = Debug|x64
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Debug|x86.Build.0 = Debug|Win32
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Release|x64.ActiveCfg = Release|x64
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Release|x64.Build.0 = Release|x64
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Release|x86.ActiveCfg = Release|Win32
+		{EB8F1043-8BD4-477F-9F94-213B90F13866}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FFB7074-B7A0-4930-96DD-8D84E69A71C8}
+	EndGlobalSection
+EndGlobal
